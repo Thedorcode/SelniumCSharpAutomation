@@ -4533,11 +4533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Braam\\Documents\\Tresor\\IT\\FIIREWORKX\\Ida\\ProAspNetCoreNovember\\Jan\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
+      "projectUniqueName": "C:\\Users\\Braam\\Documents\\SelniumCSharpAutomation\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
       "projectName": "AutoSeleniumTrial",
-      "projectPath": "C:\\Users\\Braam\\Documents\\Tresor\\IT\\FIIREWORKX\\Ida\\ProAspNetCoreNovember\\Jan\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
+      "projectPath": "C:\\Users\\Braam\\Documents\\SelniumCSharpAutomation\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
       "packagesPath": "C:\\Users\\Braam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Braam\\Documents\\Tresor\\IT\\FIIREWORKX\\Ida\\ProAspNetCoreNovember\\Jan\\AutoSeleniumTrial\\obj\\",
+      "outputPath": "C:\\Users\\Braam\\Documents\\SelniumCSharpAutomation\\AutoSeleniumTrial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

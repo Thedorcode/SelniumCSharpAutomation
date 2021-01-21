@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DDhq1zPULlxqlfMOqlKSPWLErNYK1ZTaKQCMjyr/ZYQdh4tZRELp4SyxK1uU8hy6tFoboreUGeS6/DB0W35HFw==",
+  "dgSpecHash": "4U5CnJ4ODFYZzsmQBkl6GLHjDc8+unoOREtUwrD2sBAdj5ICvjc3h5nOX3znRmAF/GgdpYyUx9RD/8D5+OyFHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Braam\\Documents\\Tresor\\IT\\FIIREWORKX\\Ida\\ProAspNetCoreNovember\\Jan\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
+  "projectFilePath": "C:\\Users\\Braam\\Documents\\SelniumCSharpAutomation\\AutoSeleniumTrial\\AutoSeleniumTrial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Braam\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Braam\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
